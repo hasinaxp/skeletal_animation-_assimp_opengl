@@ -1,0 +1,10 @@
+Debug/
+KHR/
+packages.config
+stb_image.h
+glad.h
+glad.c
+dyna.vcxproj
+Dyna.vcxproj.filters
+Dyna.vcxproj.user
+
